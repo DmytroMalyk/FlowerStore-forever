@@ -1,9 +1,8 @@
-package ua.edu.ucu.apps.demo;
+package ua.edu.ucu.apps.demo.flower;
 
 import java.util.List;
 
 import lombok.Getter;
-import ua.edu.ucu.apps.demo.flower.Item;
 import ua.edu.ucu.apps.demo.payment.Payment;
 import ua.edu.ucu.apps.demo.delivery.Delivery;;
 
